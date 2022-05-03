@@ -12,4 +12,3 @@ I'm very interested about the audio and programming-
 - 📫 How to reach me [Youtube] (https://www.youtube.com/channel/UCUvD0Sq5w4JwQa7xBUPO8bw) [and Twitter] (https://twitter.com/laserrr1)
 - 😄 Pronouns: he, but i prefer she/they 
 - ⚡ Fun fact: i love blue crocs but, i prefer pink color 😳-
-- 
