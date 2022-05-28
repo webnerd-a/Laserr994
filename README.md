@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Hi!
-My name is laserr, i'm a musician, composer and a music producer.
-I'm very interested about the audio and programming-
+My name is laserr, i'm a artist. gamedev and a programmer too!.
+I'm very interested about the art and programming-
 
-- 🔭 I’m currently working on: as musician, composer and music producer!
+- 🔭 I’m currently working on: as artist and programmer!
 - 🌱 I’m currently learning: Python and C++
 - 💖 Likes: Playing some games such as RPGs and shooters, making music, coding to my main projects and watch some anime or movies when i'm taking a break.
 - 🤔 I’m looking for help with: Audio and making some apps.
