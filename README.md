@@ -3,6 +3,8 @@
 My name is: Ale/Laserr
 
 I really love making and playing cool games-
+
+
 Skills: Blender, Krita, Python, Unity, Godot, some concepts of level design using TrenchBroom, and some web dev (like HTML, CSS and JS)
 
 interested with programming, game dev, level design and drawing.
