@@ -9,6 +9,7 @@ Skills:
 
 - Blender
 - Krita
+- Aseprite
 - Python
 - Unity
 - Godot
