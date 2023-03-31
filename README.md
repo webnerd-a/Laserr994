@@ -24,5 +24,11 @@ Software:
 - Audacity
 - LMMS
 
+Gustos:
+- Diseñar juegos!
+- La musica electronica (en especial jungle y DnB)
+- Helado de sabor crema cookie o banana split ✨✨
+- Hablar un rato con mis amigos!
+- Descansar y dormir
 
 
