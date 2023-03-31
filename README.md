@@ -26,6 +26,7 @@ Software:
 
 Gustos:
 - Diseñar juegos!
+- Programar y resolver problemas 
 - La musica electronica (en especial jungle y DnB)
 - Helado de sabor crema cookie o banana split ✨✨
 - Hablar un rato con mis amigos!
