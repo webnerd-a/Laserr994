@@ -1,36 +1,28 @@
-### Hi there 👋
+### Hoooooli 👋✨
 
-My name is: Ale/Laserr
-
-I really love making games and making 3D things!
+Soy laserr, desarrollador de videojuegos indie
 
 
-Skills:
+Amo de crear videojuegos y quisiera colaborar con alguien algún día!
 
-- Blender
+
+
+Habilidades:
+- Enseñanza basica
+- Dibujo/Boceto
+- Programación
+- Diseño de juegos
+- Creación de graficos (pixel art)
+- Manejo diseño sonoro basico y composicion musical
+
+
+Software:
 - Krita
-- Aseprite
-- Python
-- Unity
+- Git
 - Godot
-- some concepts of level design using TrenchBroom, 
-- and some web dev (like HTML, CSS and JS)
-
-Interested with:
-- programming
-- game dev
-- level design 
-- modeling 3D 
-- and drawing
-
-Likes:
-- Sketching and drawing :D
--  3D
--  making games 
--  listening cool music 😎 (breakcore, jungle, dnb and rave-style)
--  watching some cool anime 
--  ICECREAM!!! 
--  chatting and sometimes i play with my frends 
+- Aseprite
+- Audacity
+- LMMS
 
 
 
