@@ -8,11 +8,10 @@ Amo de crear videojuegos y quisiera colaborar con alguien algún día!
 
 
 Habilidades:
-- Enseñanza basica
-- Dibujo/Boceto
+- Dibujo/Boceto basico
 - Programación
 - Diseño de juegos
-- Creación de graficos (pixel art)
+- Creación de graficos por pixeles
 - Manejo diseño sonoro basico y composicion musical
 
 
