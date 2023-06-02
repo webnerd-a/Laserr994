@@ -1,6 +1,6 @@
 ### Hoooooli 👋✨
 
-Soy laserr, desarrollador de videojuegos indie y programador!
+Soy laserr, desarrollador web y gamedev :D
 
 
 Amo de crear videojuegos y quisiera colaborar con alguien algún día!
