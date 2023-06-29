@@ -18,7 +18,6 @@ Software:
 - Krita
 - Git
 - Godot
-- Audacity
 - LMMS
 
 Likes:
