@@ -1,18 +1,17 @@
-### Hoooooli 👋✨
+### Hi hiii! 👋✨
 
-Soy laserr, desarrollador web y gamedev :D
-
-
-Amo de crear videojuegos y quisiera colaborar con alguien algún día!
+Im laserr, goat creature! :D
 
 
+I love create websites and videogames, and i'll really wish collaborate with somebody together!
 
-Habilidades:
-- Dibujo/Boceto basico
-- Programación
-- Diseño de juegos
-- Creación de graficos por pixeles
-- Manejo diseño sonoro basico y composicion musical
+
+
+Skills:
+- Linux
+- Basic sound design and music
+- Scripting
+- Pixel Art/graphics
 
 
 Software:
@@ -22,12 +21,12 @@ Software:
 - Audacity
 - LMMS
 
-Gustos:
-- Diseñar juegos!
-- Programar y resolver problemas 
-- La musica electronica (en especial jungle y DnB)
-- Helado de sabor crema cookie o banana split ✨✨
-- Hablar un rato con mis amigos!
-- Descansar y dormir
+Likes:
+- game design!
+- problem solving
+- music electronic (experiment, ambiental and idm)
+- ice cream flavor oreo or banana split! ✨✨
+- chatting with my friends
+- sleep
 
 
