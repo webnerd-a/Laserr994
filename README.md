@@ -1,31 +1,27 @@
 ### Hi hiii! 👋✨
 
-Im laserr, goat creature! :D
+Im laserr, a goat creature! :D
 
-
-I love create websites and videogames, and i'll really wish collaborate with somebody together!
-
+im a web/gamedev beginner and musician!
+i'll really wish collab with somebody cool together! n n 
 
 
 Skills:
-- Linux
-- Basic sound design and music
-- Scripting
-- Pixel Art/graphics
+  - PixelArt/some graphics
+  - HTML
+  - CSS
+  - JS
+  - Python
+  - and some math for games
+  - making music gg
 
-
-Software:
-- Krita
-- Git
-- Godot
-- LMMS
 
 Likes:
-- game design!
-- problem solving
-- music electronic (experiment, ambiental and idm)
-- ice cream flavor oreo or banana split! ✨✨
-- chatting with my friends
-- sleep
+  - game design!
+  - problem solving
+  - music electronic (experiment, ambiental and idm)
+  - ice cream flavor oreo or banana split! ✨✨
+  - chatting with my friends
+  - sleep
 
 
