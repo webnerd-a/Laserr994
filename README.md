@@ -1,10 +1,10 @@
 ### Hi hiii! 👋✨
 
-Im laserr, goat creature! :D
+Im laserr, goat creature programmer! :D
 
-a web/gamedev beginner and musician!
+i really like web/gamedev things and make music! hehe
 
-i'll really like so much collab with someone cool together hehe
+i'll really like so much collab with someone cool together!
 
 
 
