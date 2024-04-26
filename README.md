@@ -1,6 +1,6 @@
-### Hi hiii! 👋✨
+### Hi theree! 👋✨
 
-Im laserr, goat creature programmer! :D
+Im laserr, a furry goat nerd creature programmer! :D
 
 i really like web/gamedev things and make music! hehe
 
