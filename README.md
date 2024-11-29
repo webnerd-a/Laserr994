@@ -1,10 +1,10 @@
 ### Hi theree! 👋✨
 
-Im laserr, a furry goat nerd creature programmer! :D
+My name is Aly, a furry goat nerd creature programmer! :D
 
-i really like web/gamedev things and make music! hehe
+i love web/gamedev things and make some music as hobby!
 
-i'll really like so much collab with someone cool together!
+i'll really like so much collab with someone cool together someday!
 
 
 
